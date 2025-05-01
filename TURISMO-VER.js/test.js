@@ -8,7 +8,7 @@ reserva.experienciaTuristica = new ExperienciaTuristica("Excursion a la montaña
 reserva.plazoLimite = "2023-10-01";
 reserva.cantidad = 5;           
 
-
+/*
 
 
 console.log(Diego());
@@ -16,3 +16,5 @@ console.log(Diego.consultarDatos());
 console.log(Martha.consultarDatos());       
 console.log(Diego.telefono);
 console.log(Martha.telefono);
+
+*/
